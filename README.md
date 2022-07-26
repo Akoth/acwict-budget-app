@@ -1,2 +1,2 @@
-# acwict-budget-app
+# Budget App
 Track expenses
